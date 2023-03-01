@@ -1,3 +1,3 @@
-module test
+module fundamentals
 
 go 1.19
